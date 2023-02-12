@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861877000701",
+    "project_id": "sfmaflutterapp",
+    "storage_bucket": "sfmaflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861877000701:android:78487feaea5fd26251e194",
+        "android_client_info": {
+          "package_name": "com.example.sfma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861877000701-iskadr7j72f09e5ovjblbachtq2v2opm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pHMjXeHQgrFoFAS8HetnAaZoZWyok-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861877000701-iskadr7j72f09e5ovjblbachtq2v2opm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
